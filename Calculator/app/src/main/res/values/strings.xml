@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="equals">=</string>
+    <string name="enter_value">Enter value ...</string>
+    <string name="result">Result</string>
+    <string name="enter_value2">Enter value ...</string>
+
+    <string-array name="math_options">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+</resources>
