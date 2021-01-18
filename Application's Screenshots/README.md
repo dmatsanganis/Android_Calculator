@@ -1,5 +1,5 @@
 ## Application's Screenshots
-In this folder you can find the **_ Application's Screenshots_** for this Project.
+In this folder you can find the **_Application's Screenshots_** for this Project.
 
 ### The provided screenshots are the following :
 - [x] add_operation.png
