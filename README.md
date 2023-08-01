@@ -27,3 +27,10 @@ in the “Value Two” box on the screen, you must not perform that calculation 
 exception will be thrown, which will crash your App. Your code should therefore check
 to prevent that and instead send a text string to the screen warning of division by 0. The
 exact text to convey this is up to you, but it should be both clear and concise.
+
+## Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/android-%3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
